@@ -1,0 +1,77 @@
+body   {background-image: url(background.jpg);
+        background-size:1522px;}
+
+.Contenitore
+  {width: 1000px;
+  margin: auto;
+  background-color:rgba(30, 30, 30 ,0.6);
+  width: 958px;
+  height: 677px;
+  margin: auto  ;
+  margin-top: 25px;
+  margin-bottom: 69px;
+  border-radius: 17px;}
+
+.Logo
+  {width: 180px;
+   margin-left: 381px;
+   margin-top: 85px;}
+
+.Sottotitolo
+  {color: rgb(49, 214, 0);
+   margin-left: 307px;
+   margin-top: 4px;
+   font-size: 25px;}
+
+.Bottoni
+ {width: 760px;
+  outline: none;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px 20px;
+  border: solid 1px #00a32d;
+  background: #00cd38;
+  margin: auto;}
+
+
+.Monopattini
+  {width: 810px;
+   color: white;
+   margin: auto;
+   margin-top: 15PX;
+   font-size: 21px;}
+
+.Indirizzi
+  {color: white;
+   margin: auto;
+   width: 750px;}
+
+#Barrauno
+  {padding: 15px 20px;
+   width: 180px;
+   border: solid 1px #ffa032;
+   background: #ffa032;
+   margin-left: 106px;
+   border-radius: 5px;
+   margin-top: 3px;}
+
+
+#Barradue
+  {padding: 15px 20px;
+   width: 420px;
+   border: solid 1px #16c01d;
+   background: #16c01d;
+   margin-left: 106px;
+   border-radius: 5px;
+   margin-top: 3px;
+}
+
+#Barratre
+  {padding: 15px 20px;
+   width: 82px;
+   border: solid 1px #dc361d;
+   background: #dc361d;
+   margin-left: 106px;
+   border-radius: 5px;
+   margin-top: 3px;}
